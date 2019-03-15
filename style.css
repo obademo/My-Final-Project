@@ -1,0 +1,33 @@
+body{ 
+    background-color: aqua;
+    margin-right: 20px;
+    margin-left:50px;
+}
+p{
+font-family: verdana;
+font-size: 15px;
+}
+h3{
+    text-align:center;
+}
+h4{
+    text-align:center;
+}
+.wrapper{
+    background-color: rgb(246, 248, 105);
+    border: 2px solid rgb(196, 196, 116);
+    width: 500px;
+    color: black;
+    padding: 30px;
+}
+input[type=submit]{
+    width: 150px;
+    height: 35px;
+    border-radius: 7px;
+    background-color: rgb(12, 156, 156);
+    border: none;
+    font-weight: bold;
+    color: white;
+    margin-left: 30%;
+    margin-right: auto;
+}
